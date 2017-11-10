@@ -1,0 +1,23 @@
+Data Type:
+1.quantitative data (continuous, discrete)
+2.categorical data (nominal, ordered)
+3.time series data
+
+Visual Encodings:
+1.Retinal Variables (ordered data: size, orientation, color saturation; nominal data: shape, colour hue, texture)
+2.time (animation)
+
+Rankings of Visual Encodings-Data visualization and D3.js:
+1.accurate: position > length > angle/slope > volume > color
+
+1.Double Encoding: data is encoded by two features, which is effective for emphasizing the importance of a particularvariable.
+2.d3.js is another tool of data visualization
+
+The Data Analysis Process
+1.Extract -- SQL web scraping
+2.Clean -- missing value, wrong format
+3.Exploratory visualizations: EDA for exploratory data analysis
+  (1)Bar Graph (categorical variables)
+  (2)Histogram (continuous variable) -- data distribution
+  (3)Scatter Plot -- relationship between data
+4.Explanatory visualizations
