@@ -1,0 +1,20 @@
+know how to design!
+
+1.choose right chart:
+visual encodings + data types + relationship = chart type!
+
+2.When you are comparing groups, bar charts are typically the best choice
+
+3.show actual values for your data, a table will work great. include color and formatting (bold/italics) to emphasize what you want the viewer to understand form the table.
+
+4.Geospatial data (country, state, latititude and longitude) is readily viewed on a map. 
+
+5.As mentioned above, a map with colors encoding data is called a choropleth
+
+6.A cartogram distorts regions in the map to indicate some variable such as population or gross national product.
+
+7.A small multiple is a series of plots with the same scale that make it simple to compare data across groups. The plots can be practically anything: lines, bars,scatter plots, maps.
+
+8.Ploy.ly: it's a language for data visualization
+
+9.Visualizing Distributions: Histograms, Box plots, strip charts (Strip charts display the actual data for each group as dots), violin plots (Violin plots display a smoothed distribution of the data. The distribution is approximated using a method called kernel density estimation.)
