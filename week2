@@ -18,3 +18,15 @@ visual encodings + data types + relationship = chart type!
 8.Ploy.ly: it's a language for data visualization
 
 9.Visualizing Distributions: Histograms, Box plots, strip charts (Strip charts display the actual data for each group as dots), violin plots (Violin plots display a smoothed distribution of the data. The distribution is approximated using a method called kernel density estimation.)
+
+10.A color palette is the range of colors used to encode the data values.
+
+11.Our eyes are more sensitive to green than red, and more sensitive to red than blue.
+
+12.linear luminance palettes:Sequential palettes and 
+
+13.Sequential palettes have a smooth transition from light to dark or dark to light.
+
+14.Diverging palettes transition from one color to another, passing through a light (or dark) color with the luminance shifting linearly through the palette
+
+15.consider black and white; then think about using natual color; don't use random colors and bright colors; use color to highlight 
